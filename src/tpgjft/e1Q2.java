@@ -8,5 +8,6 @@ public class e1Q2 {
         System.out.println(num1);
         System.out.println(num2);
         System.out.println(str1);
+        //printing out string 1
     }
 }
